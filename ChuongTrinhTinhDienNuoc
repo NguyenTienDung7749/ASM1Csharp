@@ -110,7 +110,7 @@ void TinhTienHoaDonNuoc()
     }
     else
     {
-        Console.WriteLine("Vui long nhap dung the loai khach hang");
+        Console.WriteLine("Vui long nhap dung loai khach hang");
     }
 }
 // chay chuong trinh
