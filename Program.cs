@@ -108,6 +108,7 @@ void TinhTienHoaDonNuoc()
             Console.WriteLine("Chi so dong ho nuoc thang truoc khong lon hon cua thang hien tai");
         }
     }
+    else
     {
         Console.WriteLine("Vui long nhap dung the loai khach hang");
     }
